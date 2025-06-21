@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: user-service
+  tag: "0.1.0"
+
+containerPort: 8080
